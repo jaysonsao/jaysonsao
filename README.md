@@ -35,8 +35,8 @@ I build practical tools across cryptography, intelligent agents, and automation 
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaysonsao&layout=compact&theme=radical&hide_border=true" width="390"/><br/>
-      <img src="https://github-contributor-stats.vercel.app/api?username=jaysonsao&limit=5&theme=radical&combine_all_yearly_contributions=true" width="390"/>
+      <img src="https://skillicons.dev/icons?i=java,python,c,js,django,docker,mongodb,linux,git,github,postgres,aws&perline=6" width="390"/><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaysonsao&layout=compact&theme=radical&hide_border=true" width="390"/>
     </td>
     <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=jaysonsao&bg_color=141321&color=b8c4d3&line=9fb4cc&point=d7dfeb&area=true&hide_border=true" width="390"/></td>
   </tr>
