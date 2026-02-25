@@ -41,34 +41,34 @@ I build practical tools across cryptography, intelligent agents, and automation 
 
 ## Widget Preview (From test.txt Order)
 
-### Widget 01 - GitHub Stats (`show_icons=true`)
-<img src="https://github-readme-stats.vercel.app/api?username=jaysonsao&show_icons=true" width="390" />
+### Widget 01 - Stats Overview (Radical)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaysonsao&theme=radical" width="390" />
 
-### Widget 02 - Top Languages (`layout=compact`)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaysonsao&layout=compact" width="390" />
+### Widget 02 - Top Languages by Repo (Radical)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaysonsao&theme=radical" width="390" />
 
-### Widget 03 - Top Languages (`layout=compact`, `theme=dracula`)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaysonsao&layout=compact&theme=dracula" width="390" />
+### Widget 03 - Top Languages by Commit (Radical)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaysonsao&theme=radical" width="390" />
 
-### Widget 04 - Top Languages (Default Layout)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaysonsao" width="390" />
+### Widget 04 - Profile Details (Radical)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaysonsao&theme=radical" width="390" />
 
-### Widget 05 - GitHub WidgetBox (Skills)
+### Widget 05 - GitHub WidgetBox (Skills) [Original]
 <a href="https://github.com/Jurredr/github-widgetbox">
   <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,go,cpp,rust,swift" width="390" />
 </a>
 
-### Widget 06 - GitHub Stats (Duplicate Variant: `show_icons=true`)
-<img src="https://github-readme-stats.vercel.app/api?username=jaysonsao&show_icons=true" width="390" />
+### Widget 06 - Stats Overview (Dracula)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaysonsao&theme=dracula" width="390" />
 
-### Widget 07 - Top Languages (Duplicate Variant: `layout=compact`)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaysonsao&layout=compact" width="390" />
+### Widget 07 - Top Languages by Repo (Dracula)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaysonsao&theme=dracula" width="390" />
 
-### Widget 08 - GitHub Stats (`hide=stars,prs`)
-<img src="https://github-readme-stats.vercel.app/api?username=jaysonsao&hide=stars,prs" width="390" />
+### Widget 08 - Productive Time (Radical)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaysonsao&theme=radical&utcOffset=-8" width="390" />
 
-### Widget 09 - GitHub Stats (`show_icons=true`, `commits_year=2025`)
-<img src="https://github-readme-stats.vercel.app/api?username=jaysonsao&show_icons=true&commits_year=2025" width="390" />
+### Widget 09 - Productive Time (Dracula)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaysonsao&theme=dracula&utcOffset=-8" width="390" />
 
-### Widget 10 - Top Languages (`exclude_repo=repo1,repo2`)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaysonsao&exclude_repo=repo1,repo2" width="390" />
+### Widget 10 - Profile Details (Dracula)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaysonsao&theme=dracula" width="390" />
