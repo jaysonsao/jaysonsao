@@ -30,7 +30,7 @@ I build practical tools across cryptography, intelligent agents, and automation 
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaysonsao&theme=radical" width="390"/>
     </td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaysonsao&theme=radical" width="390"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaysonsao&layout=compact&theme=radical&hide_border=true" width="390"/></td>
   </tr>
   <tr>
     <td colspan="2" align="center">
