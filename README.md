@@ -1,4 +1,4 @@
-# Hey, I'm Jayson
+# Hey, I'm Jay!
 
 ![synthwave-banner](https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=6,12,20,24,30&text=Jayson%20Sao&fontColor=00F7FF&fontSize=48&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%7C%20Security%20%7C%20Systems&descAlignY=56&descSize=18)
 
@@ -20,12 +20,18 @@ I build practical tools across cryptography, intelligent agents, and automation 
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaysonsao&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaysonsao&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaysonsao&layout=compact&theme=radical&hide_border=true" height="150"/>
+  <img src="https://img.shields.io/github/followers/jaysonsao?style=for-the-badge&label=Followers&color=9fb3c8&labelColor=1d2230" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjaysonsao&color=b7a3c9&labelColor=1d2230" />
+  <img src="https://komarev.com/ghpvc/?username=jaysonsao&style=for-the-badge&color=8ea5bb" />
 </p>
 
-## Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaysonsao&bg_color=0b0014&color=00E7FF&line=FF00D4&point=FFFFFF&area=true&hide_border=true" />
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=jaysonsao&show_icons=true&theme=radical&hide_border=true" width="390"/></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaysonsao&theme=radical&hide_border=true" width="390"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaysonsao&layout=compact&theme=radical&hide_border=true" width="390"/></td>
+    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=jaysonsao&bg_color=141321&color=b8c4d3&line=9fb4cc&point=d7dfeb&area=true&hide_border=true" width="390"/></td>
+  </tr>
+</table>
