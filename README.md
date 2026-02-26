@@ -3,7 +3,7 @@
 ![synthwave-banner](https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=6,12,20,24,30&text=Jayson%20Sao&fontColor=00F7FF&fontSize=48&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%7C%20Security%20%7C%20Systems&descAlignY=56&descSize=18)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF00D4&center=true&vCenter=true&lines=Software+Engineer;AI+%7C+Security+%7C+Systems;Building+Systems+That+Last" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF00D4&center=true&vCenter=true&lines=Software+Engineer;AI+%7C+Security+%7C+Systems;Systems+That+Last" />
 </p>
 
 ## About Me
@@ -31,12 +31,6 @@ I build practical tools across cryptography, intelligent agents, and automation 
   <tr>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaysonsao&theme=radical" width="390"/>
-    </td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaysonsao&layout=compact&theme=radical&hide_border=true" width="390"/></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://skillicons.dev/icons?i=java,python,c,js,django,docker,mongodb,linux,git,github,postgres,aws&perline=6" width="390"/>
     </td>
   </tr>
 </table>
