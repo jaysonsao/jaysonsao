@@ -7,11 +7,16 @@
 </p>
 
 ## About Me
-I’m a Computer Science student at Boston University with a passion for building tools.
+I’m a Computer Science student at Boston University focused on building practical tools and reliable systems.
 
-Outside of class, I work as a full-stack developer and enjoy experimenting with agentic AI systems and human–computer interaction (HCI).
+## What I've been working on
+- Full-stack development outside of class
+- Agentic AI systems
+- Human-computer interaction (HCI)
 
-You can explore some of my projects below or at jaysonsao.com.
+## Explore More
+- Portfolio: [jaysonsao.com](https://jaysonsao.com)
+- Projects and activity: see the sections below
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/Java-FF6A00?style=for-the-badge&logo=java&logoColor=0A001F)
