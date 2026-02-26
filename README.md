@@ -12,7 +12,7 @@
 
 I’m a Computer Science student at Boston University focused on building practical tools and reliable systems.
 
-I enjoy working across the stack — from low-level systems and security to full-stack web development.  
+I enjoy working across the stack, from low-level systems and security to full-stack web development.  
 Lately, I’ve been experimenting with agentic AI systems and exploring human–computer interaction (HCI).
 
 If you're curious, you can see more at **[jaysonsao.com](https://jaysonsao.com)**.
@@ -27,7 +27,7 @@ If you're curious, you can see more at **[jaysonsao.com](https://jaysonsao.com)*
 
 ---
 
-## Tech I Work With
+## Tech I Frequent
 
 **Languages**
   
@@ -35,10 +35,14 @@ If you're curious, you can see more at **[jaysonsao.com](https://jaysonsao.com)*
 ![Python](https://img.shields.io/badge/Python-00E7FF?style=for-the-badge&logo=python&logoColor=0A001F)
 ![C](https://img.shields.io/badge/C-39FF14?style=for-the-badge&logo=c&logoColor=0A001F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD300?style=for-the-badge&logo=javascript&logoColor=0A001F)
+![Rust](https://img.shields.io/badge/Rust-FF8C42?style=for-the-badge&logo=rust&logoColor=0A001F)
+![Golang](https://img.shields.io/badge/Go-76E1FE?style=for-the-badge&logo=go&logoColor=0A001F)
 
 **Frameworks & Tools**
 
 ![Django](https://img.shields.io/badge/Django-FF00D4?style=for-the-badge&logo=django&logoColor=0A001F)
+![React](https://img.shields.io/badge/React-6FD3FF?style=for-the-badge&logo=react&logoColor=0A001F)
+![Flask](https://img.shields.io/badge/Flask-BFC6D1?style=for-the-badge&logo=flask&logoColor=0A001F)
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-00F7FF?style=for-the-badge&logoColor=0A001F)
 ![Docker](https://img.shields.io/badge/Docker-00B2FF?style=for-the-badge&logo=docker&logoColor=0A001F)
 ![MongoDB](https://img.shields.io/badge/MongoDB-7CFFCB?style=for-the-badge&logo=mongodb&logoColor=0A001F)
