@@ -2,7 +2,7 @@
 
 ![synthwave-banner](https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=6,12,20,24,30&text=Jayson%20Sao&fontColor=00F7FF&fontSize=48&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%7C%20Security%20%7C%20Systems&descAlignY=56&descSize=18)
 
-![header](https://readme-typing-svg.herokuapp.com?size=28&color=FF00D4&center=true&vCenter=true&lines=Synthwave+Builder;AI+%7C+Security+%7C+Systems;Shipping+Real+World+Tools)
+![header](https://readme-typing-svg.herokuapp.com?size=28&color=FF00D4&center=true&vCenter=true&lines=Software+Engineer;AI+%7C+Security+%7C+Systems;Building+Systems+That+Last)
 
 ## About Me
 Computer Science engineer focused on secure systems, applied AI, and backend infrastructure.  
