@@ -7,8 +7,11 @@
 </p>
 
 ## About Me
-Computer Science engineer focused on secure systems, applied AI, and backend infrastructure.  
-I build practical tools across cryptography, intelligent agents, and automation workflows.
+I’m a Computer Science student at Boston University with a passion for building tools.
+
+Outside of class, I work as a full-stack developer and enjoy experimenting with agentic AI systems and human–computer interaction (HCI).
+
+You can explore some of my projects below or at jaysonsao.com.
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/Java-FF6A00?style=for-the-badge&logo=java&logoColor=0A001F)
