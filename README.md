@@ -2,7 +2,9 @@
 
 ![synthwave-banner](https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=6,12,20,24,30&text=Jayson%20Sao&fontColor=00F7FF&fontSize=48&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%7C%20Security%20%7C%20Systems&descAlignY=56&descSize=18)
 
-![header](https://readme-typing-svg.herokuapp.com?size=28&color=FF00D4&center=true&vCenter=true&lines=Software+Engineer;AI+%7C+Security+%7C+Systems;Building+Systems+That+Last)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF00D4&center=true&vCenter=true&lines=Software+Engineer;AI+%7C+Security+%7C+Systems;Building+Systems+That+Last" />
+</p>
 
 ## About Me
 Computer Science engineer focused on secure systems, applied AI, and backend infrastructure.  
@@ -38,37 +40,3 @@ I build practical tools across cryptography, intelligent agents, and automation 
     </td>
   </tr>
 </table>
-
-## Widget Preview (From test.txt Order)
-
-### Widget 01 - Stats Overview (Radical)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaysonsao&theme=radical" width="390" />
-
-### Widget 02 - Top Languages by Repo (Radical)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaysonsao&theme=radical" width="390" />
-
-### Widget 03 - Top Languages by Commit (Radical)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaysonsao&theme=radical" width="390" />
-
-### Widget 04 - Profile Details (Radical)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaysonsao&theme=radical" width="390" />
-
-### Widget 05 - GitHub WidgetBox (Skills) [Original]
-<a href="https://github.com/Jurredr/github-widgetbox">
-  <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,go,cpp,rust,swift" width="390" />
-</a>
-
-### Widget 06 - Stats Overview (Dracula)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaysonsao&theme=dracula" width="390" />
-
-### Widget 07 - Top Languages by Repo (Dracula)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaysonsao&theme=dracula" width="390" />
-
-### Widget 08 - Productive Time (Radical)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaysonsao&theme=radical&utcOffset=-8" width="390" />
-
-### Widget 09 - Productive Time (Dracula)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaysonsao&theme=dracula&utcOffset=-8" width="390" />
-
-### Widget 10 - Profile Details (Dracula)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaysonsao&theme=dracula" width="390" />
