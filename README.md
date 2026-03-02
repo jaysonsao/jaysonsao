@@ -27,7 +27,7 @@ If you're curious, you can see more at **[jaysonsao.com](https://jaysonsao.com)*
 
 ---
 
-## Tech I Frequent
+## Tech & tools that I frequent
 
 **Languages**
   
